@@ -32,11 +32,11 @@ Teacher Question: 2nd Choice
   
 #### Shadow Yosuke
   
-| Turn | MC |
+| Shadow Yosuke | MC |
 | :-: | :-- |
-| x | Shadow Yosuke Charges: Guard |
-| x | Shadow Yosuke Guards: Guard |
-| x | Otherwise: Zio, Zio |
+| Power Charge | Guard |
+| Guard | Guard |
+| Other | Zio, Zio |
   
 Watch TV
   
