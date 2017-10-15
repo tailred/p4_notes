@@ -59,6 +59,7 @@ Buy **3x Revival Beads**
 Angel needed for Shadow Chie "quick kill"  
 Rush all fights  
 Get all party to **Level 5** before going to Shadow Chie  
+Set **Yosuke** to **Direct Commands**
 
 | Enemy | Weak | Resist | Block |
 | :-- | :-- | :-- | :-- |
@@ -70,8 +71,8 @@ Get all party to **Level 5** before going to Shadow Chie
 
 | Turn | MC | Yosuke |
 | :-: | :-- | :-- |
-| 1 | Garu, Garu | (Auto) Garu |
-| 2 | Set **Yosuke** to **Direct Commands**, Rakunda | Bash |
+| 1 | Switch to **Angel**, Garu, Garu | (Auto) Garu |
+| 2 | Switch to **Izanagi**, Rakunda | Bash |
 | 3 | Cleave | Bash |
 | 4 | Cleave | Guard |
-| 5 | Garu, AoA | Garu, Garu |
+| 5 | Switch to **Angel**, Garu, AoA | Garu, Garu |
