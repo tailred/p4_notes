@@ -59,6 +59,12 @@ Buy **3x Revival Beads**
 Angel needed for Shadow Chie "quick kill"  
 Rush all fights  
 Get all party to **Level 5** before going to Shadow Chie  
+
+| Enemy | Weak | Resist | Block |
+| :-- | :-- | :-- | :-- |
+| Lying Hablerie | Ice, Elec | Fire | x |
+| Calm Pesce | Wind | Phys | Ice |
+  
   
 #### Shadow Chie
 
