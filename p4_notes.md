@@ -5,7 +5,7 @@ Timed from New Game select until you save file for New Game+
 ### 4/11
   
 #### Fog Fight
-| Turn | Protag |
+| Turn | MC |
 | :-: | :-- |
 | x | Rush |
   
@@ -25,15 +25,47 @@ Teacher Question: 2nd Choice
   
 #### Tutorial Fight
 
-| Turn | Protag |
+| Turn | MC |
 | :-: | :-- |
 | 1 | Zio, Rush |
 | 2 | Zio, Rush |
   
 #### Shadow Yosuke
   
-| Turn | Protag |
+| Turn | MC |
 | :-: | :-- |
 | x | Shadow Yosuke Charges: Guard |
 | x | Shadow Yosuke Guards: Guard |
 | x | Otherwise: Zio, Zio |
+  
+Watch TV
+  
+### 4/16
+
+Magician Rank 1  
+Watch TV  
+
+### 4/17
+  
+Buy **Amulet**: Equip on MC, do not sell Wristwatch  
+Buy **3x Revival Beads**  
+**Save**  
+**Required Personas**:  
+  
+* Angel (4/19)  
+* Ukobach (4/19)  
+* Pixie (4/19)  
+  
+Angel needed for Shadow Chie "quick kill"  
+Rush all fights  
+Get all party to **Level 5** before going to Shadow Chie  
+  
+#### Shadow Chie
+
+| Turn | MC | Yosuke |
+| :-: | :-- | :-- |
+| 1 | Garu, AoA | (Auto) Garu, AoA |
+| 2 | Set **Yosuke** to **Direct Commands**, Rakunda | Garu, AoA |
+| 3 | Cleave | Bash |
+| 4 | Cleave | Guard |
+| 5 | Garu, AoA | Garu, AoA |
