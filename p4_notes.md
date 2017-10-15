@@ -32,7 +32,7 @@ Teacher Question: 2nd Choice
   
 #### Shadow Yosuke
   
-| Shadow Yosuke | MC |
+| Boss | MC |
 | :-: | :-- |
 | Power Charge | Guard |
 | Guard | Guard |
