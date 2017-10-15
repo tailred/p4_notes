@@ -29,3 +29,10 @@ Teacher Question: 2nd Choice
 | :-: | :-- |
 | 1 | Zio, Rush |
 | 2 | Zio, Rush |
+  
+#### Shadow Yosuke
+  
+| Turn | Protag |
+| x | Shadow Yosuke Charges: Guard |
+| x | Shadow Yosuke Guards: Guard |
+| x | Otherwise: Zio, Zio |
