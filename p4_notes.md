@@ -64,8 +64,8 @@ Get all party to **Level 5** before going to Shadow Chie
 
 | Turn | MC | Yosuke |
 | :-: | :-- | :-- |
-| 1 | Garu, AoA | (Auto) Garu, AoA |
-| 2 | Set **Yosuke** to **Direct Commands**, Rakunda | Garu, AoA |
+| 1 | Garu, Garu | (Auto) Garu |
+| 2 | Set **Yosuke** to **Direct Commands**, Rakunda | Bash |
 | 3 | Cleave | Bash |
 | 4 | Cleave | Guard |
-| 5 | Garu, AoA | Garu, AoA if needed? |
+| 5 | Garu, AoA | Garu, Garu |
