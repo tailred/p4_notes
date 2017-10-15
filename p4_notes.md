@@ -71,7 +71,7 @@ Set **Yosuke** to **Direct Commands**
 
 | Turn | MC | Yosuke |
 | :-: | :-- | :-- |
-| 1 | Switch to **Angel**, Garu, Garu | (Auto) Garu |
+| 1 | Switch to **Angel**, Garu, Garu | Garu |
 | 2 | Switch to **Izanagi**, Rakunda | Bash |
 | 3 | Cleave | Bash |
 | 4 | Cleave | Guard |
