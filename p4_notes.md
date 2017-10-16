@@ -84,7 +84,7 @@ Set **Yosuke** to **Direct Commands**
 Chie Choice: 2nd Option ("For the investigation")  
 Teacher Question: 2nd Option ("The")  
 Enter TV, Save  
-Talk to Teddie, talk again for Goho-M  
+Talk to Teddie, talk again for **Goho-M**  
 Set Chie to **Direct Commands**  
   
 **Required Personas**:  
@@ -107,3 +107,8 @@ Set Chie to **Direct Commands**
 | Secret Bambino | Elec | x | x | x |
 | Positive King | Fire | Phys | x | Elec |
 | Bronze Dice | Elec | Phys | x | x |
+  
+Make your way up to the **5th floor**, the goal is to get the personas needed and to hit level 9 for the entire party. (There usually are 2-3 shadows in the room with the Kevlar Vest, manage EXP accordingly)  
+**GET**: **Kevlar Vest** on the 5th floor  
+MAKE SURE you have **Angel**, **Pixie**, **Ukobach**  
+Use **Goho-M**
