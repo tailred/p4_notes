@@ -45,6 +45,8 @@ Watch TV
 Magician Rank 1  
 Watch TV  
 
+## Yukiko's Castle
+
 ### 4/17
   
 Buy **Amulet**: Equip on MC, do not sell Wristwatch  
@@ -76,3 +78,32 @@ Set **Yosuke** to **Direct Commands**
 | 3 | Cleave | Bash |
 | 4 | Cleave | Guard |
 | 5 | Switch to **Angel**, Garu, AoA | Garu, Garu |
+
+### 4/18
+  
+Chie Choice: 2nd Option ("For the investigation")  
+Teacher Question: 2nd Option ("The")  
+Enter TV, Save  
+Talk to Teddie, talk again for Goho-M  
+Set Chie to **Direct Commands**  
+  
+**Required Personas**:  
+  
+* Angel (4/19)  
+* Ukobach (4/19)  
+* Pixie (4/19)  
+* Sandman (5/19)  
+* Apsaras (5/19)  
+* Slime (5/19)  
+(Note: You won't have space for one of these now, so ignore one of the 3 for 5/19 until tomorrow)  
+  
+| Enemy | Weak | Resist | Block | Reflect |
+| :-- | :-- | :-- | :-- | :-- |
+| Lying Hablerie | Ice, Elec | Fire | x | x |
+| Calm Pesce | Wind | Phys | Ice | x |
+| Trance Twins | Fire | Phys | Ice, Elec, Wind, Light, Dark | x |
+| Black Raven | Elec | Fire, Wind | x | x |
+| Magic Hand | Ice | x | x | x |
+| Secret Bambino | Elec | x | x | x |
+| Positive King | Fire | Phys | x | Elec |
+| Bronze Dice | Elec | Phys | x | x |
