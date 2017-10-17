@@ -58,7 +58,7 @@ Buy **3x Revival Beads**
 * Ukobach (4/19)  
 * Pixie (4/19)  
   
-Angel needed for Shadow Chie "quick kill"  
+**Angel** needed for Shadow Chie "quick kill"  
 Rush all fights  
 Get all party to **Level 5** before going to Shadow Chie  
 Set **Yosuke** to **Direct Commands**
