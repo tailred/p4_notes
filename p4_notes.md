@@ -109,6 +109,6 @@ Set Chie to **Direct Commands**
 | Bronze Dice | Elec | Phys | x | x |
   
 Make your way up to the **5th floor**, the goal is to get the personas needed and to hit level 9 for the entire party. (There usually are 2-3 shadows in the room with the Kevlar Vest, manage EXP accordingly)  
-**GET**: **Kevlar Vest** on the 5th floor  
+**GET**: **Kevlar Vest** on the 5th floor (furthest west room)  
 MAKE SURE you have **Angel**, **Pixie**, **Ukobach**  
 Use **Goho-M**
