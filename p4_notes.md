@@ -155,8 +155,28 @@ Get party to **Level 12** (and **Ukobach** to 6), leave at top of dungeon
 | Heat Balance | x | Fire | x | x | Ice |
 | Laughing Table | Wind | x | Phys, Fire, Ice, Elec, Light, Dark |
   
-
-
-
+Save  
+  
+**Fusion: ~5k yen**  
+  
+* Ukobach + Pixie = Cu Sith (*Resist Fire, NO AGI*)  
+* Cu Sith + Orobas = Eligor (*Hysterical Slap, Resist Fire, Rakunda*)  
+* Get Pixie and Orobas from Compendium  
+  
+Save at top floor  
+  
+#### Shadow Yukiko  
+  
+* Use **Rakunda** to debuff **Yukiko** and **Hysterical Slap** to do damage  
+* **Yosuke** uses **Bash** once, then **Garu** from that point on  
+* **Chie** buff **MC** with **Tarukaja** then **Skewer** for damage  
+* When she summons, **Chie** should use **Bufu** on **Prince** twice  
+* **Yosuke** and **Chie** don't need exp, they can die  
+* If prince is alive and you can't do enough damage, use **Sukukaja** on **MC** and pray
+  
+  
+### 4/20 lol blaze it
+  
+  
 
 
