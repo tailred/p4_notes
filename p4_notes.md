@@ -177,6 +177,155 @@ Save at top floor
   
 ### 4/20 lol blaze it
   
+Answer: Millennium (2nd)  
+Magician Rank 2: **1**  
+**Study**  
   
+### 4/21
+  
+Library  
+Study  
+  
+### 4/22
+  
+Magician Rank 3: **3** > **Any**  
+**Study**  
+  
+### 4/23
+  
+Answer: "They were by the riverside" **2nd**  
+Magician Rank 4: **3** > **1**  
+**Study**  
+  
+### 4/24
+  
+**Study** x2  
+  
+### 4/25
+  
+Answer: "8 am" **1st**  
+Magician Rank 5: **1** > **3**  
+**Study**  
+  
+### 4/26
+  
+Answer: "It's a perfect number" **2nd**  
+Chariot Rank 2: **1** > **1**  
+**Study**  
+  
+### 4/27
+  
+Go to **Metal Works** and sell all materials  
+Get **5 TaP Sodas** from vending machines  
+**Shiroku Store**:  
+* Buy **7 Vanish Balls**  
+* Buy **3 Goho-Ms**  
+* Buy as many **Revival Beads** as possible  
+  
+Get **Translator** job  
+Enter TV and save  
+Required Personas:  
+* **Slime** (5/19)  
+* **Apsaras** (5/19)  
+  
+Enter alone  
+Get to **level 14 and a half** (440-700 exp left over is still safe)  
+  
+**From now on, Translate unless otherwise noted.  Do 2nd option until after Kanji**  
+  
+### 4/28
+  
+Head to store and get attack item  
+  
+### 4/29
+  
+Translate  
+  
+### 4/30
+  
+Answer: "Mt. Olympus" **3rd**  
+(Possible bathroom break spot)  
+  
+### 5/1
+  
+Translate x2  
+  
+### 5/2
+  
+In the afternoon, talk to old man by river and **FISH**  
+  
+### 5/3
+  
+Bathroom break  
+  
+### 5/5
+  
+Go to **Shopping District**  
+  
+### 5/6
+  
+Spend time with **Yosuke**  
+Magician Rank 6: **3** > **2**  
+Fish  
+  
+### 5/7
+  
+Answer: "Ionize" **2nd**  
+Get another attack item  
+Translate  
+  
+### 5/8
+  
+Chariot Rank 3: **2**  
+  
+### 5/9
+  
+Test: **1** > **3**  
+  
+### 5/10
+  
+Test: **2** > **4**  
+  
+### 5/11
+  
+Test: **2** > **4**  
+  
+### 5/12
+  
+Magician Rank 7: **1** > **1**  
+Fish  
+  
+### 5/13
+  
+Fish, Go Home  
+  
+### 5/17
+  
+Priestess Rank 1  
+"Say it's for the investigation" **2nd**  
+  
+### 5/18
+  
+Talk to **Kanji's Mom** outside the **Textiles Shop**  
+Fish  
+Trade **2 Inaba Trout** for the **Titanium Club**  
+  
+### 5/19
+  
+Get **Chest Keys** from teacher at end of hall  
+Go to **Junes** and talk to **Naoto**  
+Enter the TV  
+  
+## Bathouse Floors 1 - 11
+
+
+
+
+
+
+
+
+
+
 
 
