@@ -111,4 +111,52 @@ Set Chie to **Direct Commands**
 Make your way up to the **5th floor**, the goal is to get the personas needed and to hit level 9 for the entire party. (There usually are 2-3 shadows in the room with the Kevlar Vest, manage EXP accordingly)  
 **GET**: **Kevlar Vest** on the 5th floor (furthest west room)  
 MAKE SURE you have **Angel**, **Pixie**, **Ukobach**  
-Use **Goho-M**
+Use **Goho-M**  
+  
+### 4/19
+  
+Enter TV, save  
+**Yukiko's Castle: Floors 5-8**  
+**Required Personas**  
+  
+* Apsaras (5/19)  
+* Slime (5/19)  
+  
+**Fusion: ~3k Yen**  
+  
+* Izanagi + Angel = Orobas (*Rakunda, Zio (optional), NO CLEAVE*)  
+* Get Angel from Compendium  
+  
+Save  
+Give **Amulet** to **Chie** from **MC**  
+Equip **Kevlar Vest** on **MC**  
+  
+Go to **5th floor** and go to Eastern-most room (3 forward, 1 back)
+
+#### Conquering Knight
+  
+* Debuff with **Rakunda**, **Agi** for damage  
+* **Yosuke** uses **Garu**  
+* **Chie** use **Tarukaja** on **MC**, **Bufu** otherwise  
+* Switch to **Angel** at last hit to get her exp  
+* **EVERYONE MUST GET EXP**  
+* If someone dies, **Revival Bead** + Yosuke **Sukukaja**  
+  
+Heal  
+Get party to **Level 12** (and **Ukobach** to 6), leave at top of dungeon  
+  
+**New Shadows**  
+  
+| Enemy | Weak | Resist | Block | Reflect | Absorb |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| Avenger Knight | Light | Phys | x | x | x |
+| Burning Beetle | Ice | Phys | x | x | x |
+| Phantom Mage | Wind | x | x | x | Fire |
+| Heat Balance | x | Fire | x | x | Ice |
+| Laughing Table | Wind | x | Phys, Fire, Ice, Elec, Light, Dark |
+  
+
+
+
+
+
