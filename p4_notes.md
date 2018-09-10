@@ -317,7 +317,32 @@ Go to **Junes** and talk to **Naoto**
 Enter the TV  
   
 ## Bathouse Floors 1 - 11
-
+  
+Equip **Titanium Club** on **MC**, save  
+Kick everyone but **Yukiko** out of party  
+Run from all fights, get to **Floor 7**  
+* Use **Vanish Ball** if you get hit  
+* Get **Battle Camisole** on 3rd floor middle-ish chest, equip it on **Yukiko** before **Floor 5**  
+  
+**Daring Gigas**  
+  
+* Put **Yukiko** on **Direct Command**  
+* Debuff with **Rakunda**  
+* Use **Yukiko's Agi** while **Rakunda** is up  
+* Use **MC's Hysterical Slap** for damage  
+* **Revival Bead Yukiko** when needed  
+* When he can't buff anymore, after his **Tarukaja** have **Yukiko block** then heal that with **Dia**  
+* Give exp to **Slime**  
+  
+Get to **Floor 8**, use **Goho-M**  
+Save  
+  
+**Fusion**  
+* Angel + Apsaras + Pixie = **Saki Mitama**  
+* Get Cu Sith and Angel  
+* Saki Mitama + Cu Sith = Veleta  
+* Slime + Angel + Veleta = Principality (*Resist Physical*)  
+* Get Veleta and Cu Sith  
 
 
 
