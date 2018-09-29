@@ -163,7 +163,8 @@ Save
 * Cu Sith + Orobas = Eligor (*Hysterical Slap, Resist Fire, Rakunda*)  
 * Get Pixie and Orobas from Compendium  
   
-Save at top floor  
+Save at top floor, heal  
+Chie needs 20 SP  
   
 #### Shadow Yukiko  
   
