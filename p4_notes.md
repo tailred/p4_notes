@@ -236,7 +236,8 @@ Get to **level 14 and a half** (440-700 exp left over is still safe)
   
 ### 4/28
   
-Head to store and get attack item  
+Go to capsule machine outside of Shiroku  
+Translate  
   
 ### 4/29
   
