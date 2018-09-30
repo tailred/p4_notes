@@ -138,12 +138,12 @@ Go to **5th floor** and go to Eastern-most room (3 forward, 1 back)
 * Debuff with **Rakunda**, **Agi** for damage  
 * **Yosuke** uses **Garu**  
 * **Chie** use **Tarukaja** on **MC**, **Bufu** otherwise  
-* Switch to **Angel** at last hit to get her exp  
+* Switch to **Angel** at last hit to get her exp (for Hama)  
 * **EVERYONE MUST GET EXP**  
 * If someone dies, **Revival Bead** + Yosuke **Sukukaja**  
   
 Heal  
-Get party to **Level 12** (and **Ukobach** to 6), leave at top of dungeon  
+Get party to **Level 12** (and **Ukobach** to 6 for Resist Fire), leave at top of dungeon  
   
 **New Shadows**  
   
@@ -171,7 +171,7 @@ Chie needs 20 SP
 * Use **Rakunda** to debuff **Yukiko** and **Hysterical Slap** to do damage  
 * **Yosuke** uses **Bash** once, then **Garu** from that point on  
 * **Chie** buff **MC** with **Tarukaja** then **Skewer** for damage  
-* When she summons, **Chie** should use **Bufu** on **Prince** twice  
+* When she summons, **Chie** should use **Bufu** on **Prince** twice (or Bufu then physical if short)  
 * **Yosuke** and **Chie** don't need exp, they can die  
 * If prince is alive and you can't do enough damage, use **Sukukaja** on **MC** and pray
   
