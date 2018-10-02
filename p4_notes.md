@@ -92,7 +92,6 @@ Set Chie to **Direct Commands**
 * Angel (4/19)  
 * Ukobach (4/19)  
 * Pixie (4/19)  
-* Sandman (5/19) (don't need??)  
 * Apsaras (5/19)  
 * Slime (5/19)  
 (Note: You won't have space for one of these now, so ignore one of the 3 for 5/19 until tomorrow)  
