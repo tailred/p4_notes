@@ -175,7 +175,7 @@ Chie needs 20 SP
 * If prince is alive and you can't do enough damage, use **Sukukaja** on **MC** and pray
   
   
-### 4/20 lol blaze it
+### 4/20
   
 Answer: Millennium (2nd)  
 Magician Rank 2: **1**  
