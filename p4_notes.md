@@ -317,7 +317,7 @@ Get **Chest Keys** from teacher at end of hall
 Go to **Junes** and talk to **Naoto**  
 Enter the TV  
   
-## Bathouse Floors 1 - 11
+## Steamy Bathouse
   
 Equip **Titanium Club** on **MC**, save  
 Kick everyone but **Yukiko** out of party  
