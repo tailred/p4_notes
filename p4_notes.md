@@ -142,7 +142,7 @@ Go to **5th floor** and go to Eastern-most room (3 forward, 1 back)
 * If someone dies, **Revival Bead** + Yosuke **Sukukaja**  
   
 Heal  
-Get party to **Level 12** (and **Ukobach** to 6 for Resist Fire), leave at top of dungeon  
+Get **MC** to **Level 12** (and **Ukobach** to 6 for Resist Fire), leave at top of dungeon  
   
 **New Shadows**  
   
