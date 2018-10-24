@@ -139,7 +139,6 @@ Go to **5th floor** and go to Eastern-most room (3 forward, 1 back)
 * **Chie** use **Tarukaja** on **MC**, **Bufu** otherwise  
 * Switch to **Angel** at last hit to get her exp (for Hama)  
 * It's fine if someone dies later in the fight, not everyone needs exp  
-* If someone dies early, **Revival Bead** + Yosuke **Sukukaja**  
   
 Heal  
 Get **MC** to **Level 12** (and **Ukobach** to 6 for Resist Fire), leave at top of dungeon  
