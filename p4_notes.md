@@ -229,13 +229,16 @@ Required Personas:
   
 Enter alone  
 Floor 8  
-Bronze Dice:		Weak - Elec; Res - Phys;  
-Avenger Knight:	Weak - Light; Res - Phys;  
-Burning Beetle:	Weak - Ice; Reflect - Phys;  
-Phantom Mage:	Weak - Wind; Abs - Fire;  
-Heat Balance:		Resist - Fire, Ice, Elec, Wind;  
-Magical Magus:	Weak - Fire; Abs - Ice;  
-Laughing Table:	Weak - Wind; Block - Phys, Fire, Ice, Elec, Light, Dark;  
+| Enemy | Weak | Resist | Block | Reflect | Absorb |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| Bronze Dice | Elec | Phys | x | x | x |
+| Avenger Knight | Light | Phys | x | x | x |
+| Burning Beetle | Ice | Phys | x | x | x |
+| Phantom Mage | Wind | x | x | x | Fire |
+| Heat Balance | x | Fire | x | x | Ice |
+| Magical Magus | Fire | x | x | x | Ice |
+| Laughing Table | Wind | x | Phys, Fire, Ice, Elec, Light, Dark |
+  
 Get to **level 14 and a half** (440-700 exp left over is still safe)  
   
 **From now on, Translate unless otherwise noted.  Do 2nd option until after Kanji**  
